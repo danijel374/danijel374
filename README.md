@@ -2,6 +2,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danijel374)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danijel374)](https://git.io/streak-stats)
 
 

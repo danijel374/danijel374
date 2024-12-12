@@ -13,14 +13,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=danijel374&theme=default" alt="GitHub Streak" height="200">
   </picture>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danijel374&layout=compact&theme=chartreuse-dark&hide_border=true" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danijel374&layout=compact&theme=vue" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danijel374&layout=compact&theme=default" alt="Top Languages" height="200">
-  </picture>
-  <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=danijel374&show_icons=true&theme=chartreuse-dark&hide_border=true" media="(prefers-color-scheme: dark)">
     <source srcset="https://github-readme-stats.vercel.app/api?username=danijel374&show_icons=true&theme=vue" media="(prefers-color-scheme: light)">
     <img src="https://github-readme-stats.vercel.app/api?username=danijel374&show_icons=true&theme=default" alt="GitHub Stats" height="200">
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danijel374&layout=compact&theme=chartreuse-dark&hide_border=true" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danijel374&layout=compact&theme=vue" media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danijel374&layout=compact&theme=default" alt="Top Languages" height="200">
   </picture>
 </div>
 

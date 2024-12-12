@@ -2,6 +2,8 @@
 
 ## Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and constantly learning new technologies to build innovative solutions.
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -10,13 +12,13 @@
     <source srcset="https://github-readme-streak-stats.herokuapp.com?user=danijel374&theme=vue" media="(prefers-color-scheme: light)">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=danijel374&theme=default" alt="GitHub Streak" height="200">
   </picture>
-</div>
-<div align="center">
-  <picture>
+    <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=danijel374&show_icons=true&theme=chartreuse-dark&hide_border=true" media="(prefers-color-scheme: dark)">
     <source srcset="https://github-readme-stats.vercel.app/api?username=danijel374&show_icons=true&theme=vue" media="(prefers-color-scheme: light)">
     <img src="https://github-readme-stats.vercel.app/api?username=danijel374&show_icons=true&theme=default" alt="GitHub Stats" height="200">
   </picture>
+</div>
+<div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danijel374&layout=compact&theme=chartreuse-dark&hide_border=true" media="(prefers-color-scheme: dark)">
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danijel374&layout=compact&theme=vue" media="(prefers-color-scheme: light)">
@@ -63,4 +65,4 @@
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 😊
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to
